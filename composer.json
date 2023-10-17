@@ -1,5 +1,5 @@
 {
-    "name": "rafael/elasticsearch-laravel-scout",
+    "name": "rafa-carmo/elasticsearch-laravel-scout",
     "require": {
         "php": "^7.2|^8.0",
         "laravel/scout": "^8.0",
