@@ -1,6 +1,6 @@
 <?php
 
-namespace ElasticSearch\Scout\Console;
+namespace RafaCarmo\ElasticSearch\Scout\Console;
 
 use Illuminate\Console\Command;
 use Elastic\Elasticsearch\Client;

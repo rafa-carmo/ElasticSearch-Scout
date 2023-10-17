@@ -1,6 +1,6 @@
 <?php
 
-namespace ElasticSearch\Scout;
+namespace RafaCarmo\ElasticSearch\Scout;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Scout\EngineManager;

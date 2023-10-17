@@ -1,6 +1,6 @@
 <?php
 
-namespace ElasticSearch\Scout\Engines;
+namespace RafaCarmo\ElasticSearch\Scout\Engines;
 
 use Laravel\Scout\Builder;
 use Laravel\Scout\Engines\Engine;
