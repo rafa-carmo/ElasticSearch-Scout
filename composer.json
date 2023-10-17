@@ -1,0 +1,24 @@
+{
+    "name": "rafael/elasticsearch-laravel-scout",
+    "require": {
+        "php": "^7.2|^8.0",
+        "laravel/scout": "^8.0",
+        "elasticsearch/elasticsearch": "^8.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rafael\\ElasticsearchLaravelScout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rafa-carmo",
+            "email": "rafaelcarmo143@gmail.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
